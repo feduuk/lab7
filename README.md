@@ -19,4 +19,4 @@
 ## Пример вставки формулы
 Формулы можно вставлять в README.md, например, с помощью сервиса [http://www.sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor). Синтаксис оформления формул - LaTeX.  
 
-![eq1](equations/eq1.png)
+![eq1](eq1.png)
