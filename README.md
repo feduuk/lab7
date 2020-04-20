@@ -17,5 +17,6 @@
 Вставить рисунки. Обязательно проверяйте себя, найдите экстремум сами аналитически, либо в независимом сервисе (sympy, Maxima, Wolfram Alpha в конце концов). Иногда начальная точка может быть выбрана не оптимально. В этом случае ее нужно подвинуть так, чтобы Ваша программа работала и об этом тоже подробно рассказать в отчете.
 
 ## Пример вставки формулы
-Формулы можно вставлять в README.md, например, с помощью сервиса [http://www.sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor). Синтаксис оформления формул - LaTeX.
-![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cvec%7Bx%7D%5E%7Bn%2B1%7D%3D%5Cvec%7Bx%7D%5E%7Bn%7D%20%2B%20%5Calpha%5En%5Cvec%7Bp%7D%5E%7Bn%7D&bc=White&fc=Black&im=jpg&fs=12&ff=modern&edit=)
+Формулы можно вставлять в README.md, например, с помощью сервиса [http://www.sciweavers.org/free-online-latex-equation-editor](http://www.sciweavers.org/free-online-latex-equation-editor). Синтаксис оформления формул - LaTeX.  
+
+![eq1](equations/eq1.png)
