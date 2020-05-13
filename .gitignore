@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+file_y.txt
+file_y1.txt
+file_y2.txt
+file_z.txt
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
